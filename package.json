@@ -1,0 +1,24 @@
+{
+  "name": "com.liteninja.sosystems",
+  "version": "1.0.0",
+  "displayName": "LiteNinja SO Systems",
+  "description": "A Unity3D Library to build Scriptable Object Systems",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-SOSystems/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-SOSystems/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-SOSystems/blob/main/LICENSE",
+  "dependencies": {
+    "com.liteninja.utils": "1.1.1"
+  },
+  "keywords": [
+    "scriptable object",
+    "system",
+    "architecture",
+    "decoupling"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
